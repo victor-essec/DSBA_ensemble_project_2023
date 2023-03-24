@@ -11,10 +11,4 @@ Section A: Files for Evaluation:
 4. Proposal2_scratch_tree.ipynb
    - Final submission for drafting a decision tree from scratch
    
-Section B: Backup Files (Please ignore - these are backup files and trial files when we were resting uploading to Git)
-1. ABNYC2019.csv 
-   - Backup DataSet from Kaggle (As a backup - please use dataset under Section A: Files for evaluation above)
-2. airbnb_data_clean.csv
-   - Cleaned DataSet (As a backup - please use dataset under Files for evaluation above)
-3. ipynb_upload.ipynb
-   - Testing file for pyscript upload
+
